@@ -1,0 +1,12 @@
+# top-most EditorConfig file
+root = true
+
+# matches all files
+[*]
+indent_style = tab
+indent_size = 4
+
+# only json
+[*.json]
+indent_style = space
+indent_size = 2
